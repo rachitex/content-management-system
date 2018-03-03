@@ -1,0 +1,84 @@
+/* Heading */
+.background{
+	background-color: #00796B;
+}
+
+.heading{
+	background-color: #009688;
+	min-width: 450px;
+	min-height: 100px;
+}
+
+.heading-text{
+	color: #212121;
+	text-align: left;
+	padding: 30px;
+}
+
+.heading-link{
+	display: block;
+    	text-decoration: none !important;
+}
+
+
+/* Menu */
+
+.menu-section{
+	background-color: #009688;
+	min-width: 450px;
+	min-height: 30px;
+}
+
+.menu-body{
+	list-style-type: none;
+	overflow: hidden;
+    	background-color: #B2DFDB;
+}
+
+.menu_item{
+	display: block;
+	color: #212121;
+	padding: 16px;
+	text-align: center;
+    	text-decoration: none;
+	float: left;
+}
+
+.menu_item:hover{
+	background: #BDBDBD;
+}
+
+/* Content */
+
+.content{
+	min-height: 400px;
+	background-color: white;
+}
+
+/* Footer */
+
+.footer{
+	background: #009688;
+	min-height: 50px;
+}
+
+.footer-text{
+	color: #212121;
+	text-align: right;
+	size: 150px;
+	padding: 15px;
+}
+
+
+/* Registration Form */
+
+
+
+
+
+
+
+
+
+
+
